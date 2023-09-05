@@ -2,7 +2,7 @@
 #include <string>
 #include <math.h>
 using namespace std;
-int main (void){
+    int main (void){
     int num, cont;
     cout << "Qual o número? ";
     cin >> num;
