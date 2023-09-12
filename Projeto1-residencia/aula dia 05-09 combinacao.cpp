@@ -2,6 +2,7 @@
 #include <string>
 #include <math.h>
 using namespace std;
+
 int fat (int n) {
         int fatorial = 1;
         for (int i=1;i<=n;i++)
